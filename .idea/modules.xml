@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/7_LAB-main.iml" filepath="$PROJECT_DIR$/.idea/7_LAB-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Big_Data_7_Lab/.idea/Big_Data_7_Lab.iml" filepath="$PROJECT_DIR$/../Big_Data_7_Lab/.idea/Big_Data_7_Lab.iml" />
+    </modules>
+  </component>
+</project>
